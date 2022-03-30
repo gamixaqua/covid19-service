@@ -1,0 +1,12 @@
+{
+  "swagger": "2.0",
+  "info": "",
+  "version": "1.0.0",
+  "title": "COVID19-SERVICE",
+"schemes": ["http"],
+"host": "covid19-data.com",
+"basePath": "/v1",
+"consumes": ["application/json"],
+"produces": ["application/json"],
+  "paths": {}
+}
